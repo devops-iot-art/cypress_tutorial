@@ -1,0 +1,22 @@
+{
+  "name": "cypress_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devops-iot-art/cypress_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devops-iot-art/cypress_tutorial/issues"
+  },
+  "homepage": "https://github.com/devops-iot-art/cypress_tutorial#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
